@@ -1,5 +1,5 @@
-
- # Hi there 👋
+# About
+ Hi there 👋
  Welcome to my Github page! 
  
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
